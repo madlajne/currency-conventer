@@ -9,6 +9,8 @@ html {
 .body {
     font-family: 'Roboto', sans-serif;
     background-image: url(https://v.wpimg.pl/OGM1YjVkYCYsUy9ZeRBtM28LewM_SWNlOBNjSHldfXM1Hj8DOg49Ij1edw0kHj8mOkF3GjpELjckHi9beQ8mND1dOBN5DiIlKFV2DmRcdyF8AmtHMg15dGAFbFs0Ri1-fwJ0U24KKn8uBDtfMl54ZTA);
+    background-repeat: no-repeat;
+    background-size: cover;
     font-size: 20px;
     font-weight: 600;
 }
